@@ -1,30 +1,14 @@
-### Hi, I´m Alexander Dev! 
+ ![alexander2 (4)](https://user-images.githubusercontent.com/59897816/111850451-a4112080-8910-11eb-8b7e-dddfb9ea56ce.png)
 
-
-
+### Hi, I´m Alexander Dev! Thanks for visiting my github!
 
 ```js
-const Alexander Dev = {
-  pronouns: "Alex"😄,
-  code: [Javascript, Typescript, HTML, CSS, PHP],
+const Alexander Dev  👨🏻‍💻 = {
+  ⚡technologies: [Javascript, Typescript, HTML, CSS, PHP],
   tools: [Vue, React, Angular, Node, Laravel, Symfony, HTML, CSS],
   
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "🌱I keep learning every day focused on growing as a developer Vue, react, PHP among others."
 }
 ```
 
 
-<!--
-**AlexanderVC0123/AlexanderVC0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
