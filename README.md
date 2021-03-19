@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi, I´m Alexander Dev! 
+
+
+
+
+```js
+const Alexander Dev = {
+  pronouns: "Alex"😄,
+  code: [Javascript, Typescript, HTML, CSS, PHP],
+  tools: [Vue, React, Angular, Node, Laravel, Symfony, HTML, CSS],
+  
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 
 <!--
 **AlexanderVC0123/AlexanderVC0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
