@@ -4,10 +4,10 @@
 
 ```js
 const Alexander Dev  👨🏻‍💻 = {
-  ⚡technologies: [Javascript, Typescript, HTML, CSS, PHP],
-  tools: [Vue, React, Angular, Node, Laravel, Symfony, HTML, CSS],
+  ⚡technologies: [Java, SQL, HTML, CSS],
+  tools: [SpringBoot, Vue, React, PostgreSQL, Oracle],
   
- challenge: "🌱I keep learning every day focused on growing as a developer Vue, react, PHP among others."
+ challenge: "🌱I keep learning every day focused on growing as a back developer."
 }
 ```
 
