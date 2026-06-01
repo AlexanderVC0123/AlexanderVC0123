@@ -1,14 +1,18 @@
- ![alexander2 (4)](https://user-images.githubusercontent.com/59897816/111850451-a4112080-8910-11eb-8b7e-dddfb9ea56ce.png)
+ ![alexander2 (4)]([https://user-images.githubusercontent.com/59897816/111850451-a4112080-8910-11eb-8b7e-dddfb9ea56ce.png](https://github.com/AlexanderVC0123/AlexanderVC0123/issues/3#issue-4566125775))
 
-### Hi, I´m Alexander Dev! Thanks for visiting my github!
+
+```md
+## Hi, I'm Alexander Dev! 👨🏻‍💻
+
+Backend developer in progress, learning new technologies and improving every day.
 
 ```js
-const Alexander Dev  👨🏻‍💻 = {
-  ⚡technologies: [Java, SQL, HTML, CSS],
-  tools: [SpringBoot, Vue, React, PostgreSQL, Oracle],
-  
- challenge: "🌱I keep learning every day focused on growing as a back developer."
-}
-```
+const alexanderDev = {
+  backend: [Java, "Spring Boot", "Python"],
+  databases: ["PostgreSQL", "Oracle", "SQL"],
+  frontend: ["React", "HTML", "CSS"],
+  learning: ["Microservices", "Cloud Security", "DevSecOps"],
+  goal: "Become a solid backend developer and build real projects."
+};
 
 
