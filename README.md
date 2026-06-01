@@ -1,4 +1,4 @@
-![alexander2 (4)](https://github.com/AlexanderVC0123/AlexanderVC0123/issues/3#issue-4566125775)
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/fffbde55-f318-417b-b0a3-a5bf155f0e18" />
 
 
 ```md
