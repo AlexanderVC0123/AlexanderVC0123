@@ -1,4 +1,4 @@
- ![alexander2 (4)]([https://user-images.githubusercontent.com/59897816/111850451-a4112080-8910-11eb-8b7e-dddfb9ea56ce.png](https://github.com/AlexanderVC0123/AlexanderVC0123/issues/3#issue-4566125775))
+![alexander2 (4)](https://user-images.githubusercontent.com/59897816/111850451-a4112080-8910-11eb-8b7e-dddfb9ea56ce.png)
 
 
 ```md
